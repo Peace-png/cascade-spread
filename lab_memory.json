@@ -1,0 +1,58 @@
+{
+  "project": "cascade-spread",
+  "created": "2026-03-15",
+  "runs": [
+    {
+      "cycle": 1,
+      "date": "2026-03-15 16:45",
+      "question": "How do cascades spread in networks",
+      "result": "Four mechanisms govern cascade spread: threshold activation, branching processes, percolation dynamics, and load redistribution. Scale-free networks (γ < 3) have vanishing epidemic threshold. Cascade window at intermediate connectivity (z ~ 4-10). Power-law cascade sizes P(s) ~ s^(-3/2).",
+      "supported": [
+        "Scale-free networks with γ < 3 have vanishing epidemic threshold",
+        "Watts threshold model predicts cascade window at intermediate connectivity",
+        "Cascade size distributions follow power-law with exponent -3/2",
+        "Higher clustering amplifies cascades when thresholds are low",
+        "Interdependent networks show first-order phase transitions"
+      ],
+      "rejected": [],
+      "unknown": [
+        "Temporal network effects on cascade thresholds",
+        "Higher-order interactions (simplicial complexes) impact",
+        "Optimal topology maximizing functionality vs minimizing cascade risk",
+        "Real-time metrics for 'distance from criticality'"
+      ],
+      "next_tests": [
+        "Test 1: Epidemic threshold verification in scale-free networks",
+        "Test 2: Cascade window identification via percolation",
+        "Test 3: Power-law cascade size distribution validation (10,000+ samples)",
+        "Test 4: Branching process criticality test (R₀ = 1.0)",
+        "Test 5: Load redistribution cascade test (BTW sandpile)"
+      ],
+      "agents_used": [
+        "ClaudeResearcher (Scientist)",
+        "GrokResearcher (Skeptic)",
+        "ClaudeResearcher (Historian)",
+        "CodexResearcher (Experimenter)",
+        "GeminiResearcher (Explainer)",
+        "General-purpose (Philosopher)",
+        "Artist (Media skill)"
+      ],
+      "status": "complete"
+    }
+  ],
+  "dead_ends": [],
+  "open_questions": [
+    "Can we develop real-time metrics for 'distance from criticality'?",
+    "Is there an optimal topology that maximizes functionality while minimizing cascade risk?",
+    "How do we design governance structures for protective inefficiency?",
+    "What does cascade fragility imply about conscious experience?",
+    "Can we design anti-fragile networks that learn from small cascades?"
+  ],
+  "key_insights": [
+    "Stability lives in topology, not individual nodes",
+    "Local rationality produces systemic fragility",
+    "Blame is structurally misallocated after cascades - the true cause is network topology",
+    "Some fragmentation is protective - maximally efficient networks are cascade-prone",
+    "The universe has a preferred vocabulary for systemic failure, and it is surprisingly small"
+  ]
+}
